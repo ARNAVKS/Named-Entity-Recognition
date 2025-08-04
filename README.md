@@ -1,6 +1,6 @@
 # Named-Entity-Recognition
 
-This project performs Named Entity Recognition (NER) using a BiLSTM-based model. It includes:
+This project performs Named Entity Recognition (NER) using a BiLSTM-based model. I used *NER dataset.csv* uploaded above. It includes:
 
 **Tag.ipynb** – NER tagger for preprocessing and tagging the dataset by using BiLSTM.
 
